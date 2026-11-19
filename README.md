@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# data-preprocessing-eda-training-evaluation-deployment
+
+<sub>Pipeline machine learning lengkap - preprocessing, EDA, training, evaluasi, dan deployment.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | data-preprocessing-eda-training-evaluation-deployment |
+| Primary language | Python |
+| Topics | data-preprocessing, data-science, deployment, eda, machine-learning, model-training, python |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+data-preprocessing-eda-training-evaluation-deployment is a hands-on repository focused on: Pipeline machine learning lengkap - preprocessing, EDA, training, evaluasi, dan deployment.. Primary language: Python. Topics: data-preprocessing, data-science, deployment, eda, machine-learning, model-training, python. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
