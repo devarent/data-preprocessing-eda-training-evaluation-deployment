@@ -1,3 +1,13 @@
+# Ml-Pipeline-End-To-End
+<sub><span style="opacity: 0.85">Pipeline machine learning lengkap - preprocessing, EDA, training, evaluasi, dan deployment.</span></sub>
+<div align="center" style="font-size: 0.9em">
+<img src="assets/brand-logo.svg" alt="Arya Fatthurahman" width="130px" />
+</div>
+
+[![CI](https://github.com/devarent/ml-pipeline-end-to-end/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/ml-pipeline-end-to-end/actions/workflows/ci.yml)
+
+---
+
 
 <!-- identity-block -->
 <div align="center">
@@ -275,3 +285,9 @@ deactivate
 <div align="center">
 <sub>Hands-on engineering, built and documented in the open.</sub>
 </div>
+## Quickstart
+
+```bash
+cd <repo>
+# Setup instructions are in the project sections above.
+```
