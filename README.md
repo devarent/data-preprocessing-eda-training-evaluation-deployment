@@ -12,7 +12,7 @@
 <!-- identity-block -->
 <div align="center">
 
-# data-preprocessing-eda-training-evaluation-deployment
+# ml-pipeline-end-to-end
 
 <sub>Pipeline machine learning lengkap - preprocessing, EDA, training, evaluasi, dan deployment.</sub>
 
@@ -22,7 +22,7 @@
 
 | Field | Detail |
 | --- | --- |
-| Repository | data-preprocessing-eda-training-evaluation-deployment |
+| Repository | ml-pipeline-end-to-end |
 | Primary language | Python |
 | Topics | data-preprocessing, data-science, deployment, eda, machine-learning, model-training, python |
 | License | MIT |
@@ -31,7 +31,7 @@
 
 ## Overview
 
-data-preprocessing-eda-training-evaluation-deployment is a hands-on repository focused on: Pipeline machine learning lengkap - preprocessing, EDA, training, evaluasi, dan deployment.. Primary language: Python. Topics: data-preprocessing, data-science, deployment, eda, machine-learning, model-training, python. The README below documents the project; use the table above for a quick overview.
+ml-pipeline-end-to-end is a hands-on repository focused on: Pipeline machine learning lengkap - preprocessing, EDA, training, evaluasi, dan deployment.. Primary language: Python. Topics: data-preprocessing, data-science, deployment, eda, machine-learning, model-training, python. The README below documents the project; use the table above for a quick overview.
 
 ### Global references
 
@@ -46,7 +46,7 @@ data-preprocessing-eda-training-evaluation-deployment is a hands-on repository f
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/data-preprocessing-eda-training-evaluation-deployment-1f6feb?style=for-the-badge" alt="data-preprocessing-eda-training-evaluation-deployment" />
+<img src="https://img.shields.io/badge/ml-pipeline-end-to-end-1f6feb?style=for-the-badge" alt="ml-pipeline-end-to-end" />
 <img src="https://img.shields.io/badge/LANG%20Python-3178c6?style=for-the-badge" alt="LANG Python" />
 <img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
 <img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
@@ -165,7 +165,7 @@ deactivate
 
 ## Project Governance
 
-[![CI](https://github.com/devarent/data-preprocessing-eda-training-evaluation-deployment/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/data-preprocessing-eda-training-evaluation-deployment/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/ml-pipeline-end-to-end/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/ml-pipeline-end-to-end/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
